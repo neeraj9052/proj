@@ -21,13 +21,15 @@ CRUD Oerations Using Django Framework :
   * By use of SQLITE3 Database Student Management Information has organized.
   
   * About Folders in Project:
-      Main Projet Folder   - CRUDPROJ
-      Eternal Applications - app
-      Templates Folder     - templates
+      Main Projet Folder   - CRUDPROJ,
+      Eternal Applications - app,
+      Templates Folder     - templates,
+    
   * Views Implemented in "app" Apllication for CRUD Operations :
-      Create Operation  - insert View
-      Read Operation    - index View
-      Update Operation  - UpdateData View
+      Create Operation  - insert View,
+      Read Operation    - index View,
+      Update Operation  - UpdateData View,
       Delete Operation  - DeleteData View
+    
  * All Views are Placed in "crudproj/app/views" location.
   
