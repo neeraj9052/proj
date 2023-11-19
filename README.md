@@ -24,5 +24,10 @@ CRUD Oerations Using Django Framework :
       Main Projet Folder   - CRUDPROJ
       Eternal Applications - app
       Templates Folder     - templates
-  
+  * Views Implemented in "app" Apllication for CRUD Operations :
+      Create Operation  - insert View
+      Read Operation    - index View
+      Update Operation  - UpdateData View
+      Delete Operation  - DeleteData View
+ * All Views are Placed in "crudproj/app/views" location.
   
